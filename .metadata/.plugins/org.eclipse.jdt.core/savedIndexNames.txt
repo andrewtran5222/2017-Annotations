@@ -1,1 +1,0 @@
-INDEX VERSION 1.130+C:\Users\Guest Account\Desktop\All Things Java\Eclipse Folder\2017Annotations\src\.metadata\.plugins\org.eclipse.jdt.core
